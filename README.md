@@ -1,4 +1,4 @@
-Competition_Programming
+Competition-Programming
 =======================
 
 My Solutions to Programming Competition Problems.
