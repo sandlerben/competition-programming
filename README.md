@@ -1,6 +1,6 @@
-Competition-Programming
+Competition Programming
 =======================
 
 My Solutions to Programming Competition Problems.
 
-For a few years, I have been competing a programming competitions. At these competitions, problems range in difficulty from extremely easy string manipulation to very difficult graph theory algorithms. Here are some of my solutions to problems. For my solutions to the most challenging problems, look at the “Graph Theory Problems” folder.
+During high school, I competed in several programming competitions including the Florida Programming Series, the UCF High School Programing Tournament, and the FIU-ACM High School Programming Competition. At these competitions, I was asked to solve a variety of problems ranging in difficulty from easy string manipulation to extremely difficult graph theory algorithms. I’ve included my solutions to a few problems including my solutions to the most challenging ones (located in the “Graph Theory Problems” folder).
